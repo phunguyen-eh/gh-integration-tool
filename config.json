@@ -1,0 +1,14 @@
+{
+  "team": "eni",
+  "repoDirectory": "D:\\keypay-dev",
+  "pullRequestTemplate": "pull_request_template.md",
+  "mainBranch": "staging",
+  "pushToOrigin": true,
+  
+  "title": "Enigma release in 11 Aug, AU PM",
+  "releaseName": "release/eni-20250811-au-pm",
+  "pr": [
+    20153,
+    20362
+  ]
+}

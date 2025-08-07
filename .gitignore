@@ -1,0 +1,81 @@
+# Visual Studio files
+.vs/
+*.suo
+*.user
+*.ncb
+*.opensdf
+*.sdf
+*.tlog
+*.log
+*.bak
+*.resharper
+*.dotSettings
+*.pidb
+*.vsp
+*.trx
+*.testsettings
+*.vspscc
+
+# Build artifacts
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+*.pdb
+*.obj
+*.exe
+*.dll
+*.ilk
+*.lib
+*.winmd
+*.appx
+*.appxbundle
+*.pri
+*.sgen
+*.cache
+*.publish
+*.deploy
+*.resources
+*.designer.cs.tlog
+*.lastbuildstate
+*.lastcodeanalysisresults
+
+# NuGet packages
+packages/
+*.nupkg
+
+# Rider files
+.idea/
+*.sln.DotSettings
+*.csproj.DotSettings
+
+# Visual Studio Code files
+.vscode/
+
+# NCrunch
+.ncrunch/
+
+# StyleCop
+StyleCop.Cache
+
+# Visual Studio Profiler
+*.vsp
+
+# Temporary files
+temp/
+tmp/
+*.tmp
+*~
+
+# Test results
+TestResults/
+
+# User-specific files
+*.userprefs
+
+# Local settings
+LocalSettings.xml
+
+# Example: Ignore all files in a specific folder except one
+!myfolder/keepthisfile.txt
+myfolder/*
