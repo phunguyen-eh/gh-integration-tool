@@ -575,6 +575,7 @@ public class IntegrationTool
                 }
                 description.AppendLine($"- #{pr.Number}: {ticketsString}");
             }
+            description.AppendLine();
         }
         
         logger.LogDebug("PR description generated", new { DescriptionLength = description.Length });
